@@ -1,1 +1,2 @@
-hello everyone£¡welcome to my house.
+hello everyone! welcome to my house.
+This is the first step for me to learn GitHub...
